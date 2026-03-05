@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+pandas
+lxml
+scrapy
+selenium
+streamlit
+openai-whisper
+pytest
+python-dotenv

@@ -1,0 +1,29 @@
+[
+  {
+    "title":"Please donate blood at the Red Cross bank today!",
+    "date_published":1769299200000,
+    "author":"News Hub",
+    "source":"Facebook",
+    "keyword_category":"industry_news",
+    "language":"en",
+    "sentiment_score":0.6588
+  },
+  {
+    "title":"இரத்த தானம் செய்யுங்கள்",
+    "date_published":1769212800000,
+    "author":"Community Post",
+    "source":"Instagram",
+    "keyword_category":"other",
+    "language":"en",
+    "sentiment_score":0.4215
+  },
+  {
+    "title":"Ambulance service was very fast and helpful.",
+    "date_published":1769126400000,
+    "author":"Citizen S",
+    "source":"TikTok",
+    "keyword_category":"other",
+    "language":"en",
+    "sentiment_score":0.7316
+  }
+]

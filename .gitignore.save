@@ -1,0 +1,31 @@
+  \
+faf
+
+
+\
+
+fd
+º# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data files
+data/
+*.csv
+*.xlsx
+*.json
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
